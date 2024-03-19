@@ -2,14 +2,14 @@
   "name": "filmoteka",
   "version": "0.0.1",
   "description": "",
-  "homepage": "https://mesterum.github.io/parcel-team6-JS",
+  "homepage": "https://andree-ioana.github.io/parcel-team6-JS",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-team6-JS/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mesterum/parcel-team6-JS.git"
+    "url": "git+https://github.com/andree-ioana/parcel-team6-JS.git"
   },
   "dependencies": {
     "axios": "^1.6.7",
